@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
+body{
+   
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;  
+    flex-direction: column;
+    align-items: center;
+
+
+}
+ 
+.estreia label{
+    color:#BF1515;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 50%;
+    height: 50%;
+}
+
+.box-botao{
+    background-color: #BF1515;
+    color: aliceblue;
+    border-radius: 15px;
+    cursor: pointer;
+    font-family: 'Staatliches', cursive;
+   width: 120px;
+ }   
